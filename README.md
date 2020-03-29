@@ -1,7 +1,5 @@
-<div style="text-align: center;">
-<h1>Bloclchain with java</h1>
+# Blockchain with java
 javaで作ったローカルなBlockchain
-</div>
 
 # Dependency
 
@@ -9,7 +7,6 @@ javaで作ったローカルなBlockchain
     Version: Oxygen.2 Release (4.7.2)
 
 ## java 
-
     Version: 12.0.2
 
 ## gson
@@ -28,8 +25,9 @@ javaでjsonを扱うためのライブラリ
 
 ## 外部JAR gsonの追加
 
-    下記からファイルをダウンロード、追加
-    [gson](https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.2/)
+下記からファイルをダウンロード、追加
+
+[gson](https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.2/)
 
     プロジェクト名を右クリック -> プロパティ -> javaのビルドパス -> 外部JARの追加
 
@@ -61,8 +59,5 @@ javaでjsonを扱うためのライブラリ
     sfuj1wara
 
 # References
-    [ブロックチェーンを作ってみました。](https://techblog.gmo-ap.jp/2018/12/26/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/)
 
-
-
-
+[ブロックチェーンを作ってみました。](https://techblog.gmo-ap.jp/2018/12/26/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/)
