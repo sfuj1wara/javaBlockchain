@@ -11,7 +11,6 @@ javaで作ったローカルなBlockchain
 ## java 
 
     Version: 12.0.2
-    [リンクのサンプルです](http://qiita.com/)
 
 ## gson
 
