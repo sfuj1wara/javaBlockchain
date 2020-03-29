@@ -29,7 +29,7 @@ javaでjsonを扱うためのライブラリ
 ## 外部JAR gsonの追加
 
     下記からファイルをダウンロード、追加
-    https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.2/
+    [gson](https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.2/)
 
     プロジェクト名を右クリック -> プロパティ -> javaのビルドパス -> 外部JARの追加
 
