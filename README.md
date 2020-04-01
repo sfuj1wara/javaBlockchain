@@ -3,7 +3,7 @@ javaで作ったローカルなBlockchain
 
 # Dependency
 
-## :green_book: Eclipse
+## Eclipse
     Version: Oxygen.2 Release (4.7.2)
 
 ## java 
